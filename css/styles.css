@@ -445,6 +445,8 @@ button.hero-btn {
     border: 1px solid #8E8F99;
     border-radius: 4px;
 
+    fill: #AFB1B8;
+
     display: flex;
     align-content: center;
     justify-content: center;
